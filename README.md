@@ -1,2 +1,2 @@
-Im going to create site for recioes. 
+Im going to create site for recipes. 
 Expecting to be much comfortable with html and git stuff.
